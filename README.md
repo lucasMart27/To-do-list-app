@@ -15,7 +15,7 @@ Bem-vindo ao **To-do List App**, um aplicativo desenvolvido com [React Native](h
 
   ## 📽 Veja em Ação
 
-Assista ao vídeo demonstrativo do To-do List App: [Clique aqui]([https://youtu.be/SEU_VIDEO_ID](https://youtu.be/RGwhOw4W5oQ))
+Assista ao vídeo demonstrativo do To-do List App: https://youtu.be/RGwhOw4W5oQ
 
 
 ## ⚡ Instalação
