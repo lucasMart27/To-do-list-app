@@ -58,10 +58,6 @@ Isso removerá os dados armazenados e reiniciará a aplicação do zero.
 - [Expo Router](https://expo.github.io/router/docs)
 - [Redux Toolkit](https://redux-toolkit.js.org/introduction/getting-started)
 
-## 💬 Dúvidas ou Sugestões?
-Entre em contato ou contribua com o projeto:
-- [GitHub](https://github.com/seu-repositorio/todo-list-app)
-- [Discord](https://chat.expo.dev)
 
 **Desenvolvido com ❤️ e código limpo!** 🚀
 
