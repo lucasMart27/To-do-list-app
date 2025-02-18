@@ -18,8 +18,8 @@ Para executar o projeto localmente, siga os passos abaixo:
 
 ### 1. Clone o repositório
 ```bash
-  git clone https://github.com/seu-repositorio/todo-list-app.git
-  cd todo-list-app
+ git clone https://github.com/lucasMart27/To-do-list-app.git
+cd To-do-list-app
 ```
 
 ### 2. Instale as dependências
