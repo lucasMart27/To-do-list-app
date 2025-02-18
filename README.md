@@ -12,6 +12,12 @@ Bem-vindo ao **To-do List App**, um aplicativo desenvolvido com [React Native](h
 - 🌟 **Animações para melhor UX** 
 - 🌐 **Integração com API Todoist**
 
+
+  ## 📽 Veja em Ação
+
+Assista ao vídeo demonstrativo do To-do List App: [Clique aqui]([https://youtu.be/SEU_VIDEO_ID](https://youtu.be/RGwhOw4W5oQ))
+
+
 ## ⚡ Instalação
 
 Para executar o projeto localmente, siga os passos abaixo:
