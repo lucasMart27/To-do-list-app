@@ -12,7 +12,7 @@ Bem-vindo ao **To-do List App**, um aplicativo desenvolvido com [React Native](h
 - 🌟 **Animações para melhor UX** 
 - 🌐 **Integração com API Todoist**
 
-Lucas Martins 
+
 
 
   ## 📽 Veja em Ação
@@ -68,4 +68,7 @@ Isso removerá os dados armazenados e reiniciará a aplicação do zero.
 
 
 **Desenvolvido com ❤️ e código limpo!** 🚀
+
+Desenvolvido:
+Lucas Martins Damasceno
 
